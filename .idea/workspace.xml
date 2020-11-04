@@ -19,9 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78523871-d27a-4d31-b3f2-dc82e1ebddb2" name="Default Changelist" comment="Adding dependencies for eureka client">
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="78523871-d27a-4d31-b3f2-dc82e1ebddb2" name="Default Changelist" comment="Modifying appplication.properties file for eureka server" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +111,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Removing controller and service package" />
     <MESSAGE value="Adding dependencies for eureka client" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding dependencies for eureka client" />
+    <MESSAGE value="Modifying appplication.properties file for eureka server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifying appplication.properties file for eureka server" />
   </component>
   <component name="WindowStateProjectService">
     <state x="355" y="6" key="#Plugins" timestamp="1604472810227">

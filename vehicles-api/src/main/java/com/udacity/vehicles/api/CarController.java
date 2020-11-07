@@ -58,6 +58,7 @@ class CarController {
      */
     @GetMapping("/{id}")
     Resource<Car> get(@PathVariable Long id) {
+
         /**
          * TODO: Use the `findById` method from the Car Service to get car information.
          * TODO: Use the `assembler` on that car and return the resulting output.

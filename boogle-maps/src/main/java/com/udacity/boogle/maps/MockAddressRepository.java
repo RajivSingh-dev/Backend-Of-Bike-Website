@@ -16,8 +16,8 @@ class MockAddressRepository {
      */
     static Address getRandom() {
 
-        Random generator = new Random();
-        int randomIndex = generator.nextInt(ADDRESSES.length);
+        Random  generatorr = new Random();
+        int randomIndex = generatorr.nextInt(ADDRESSES.length);
 
         String address = ADDRESSES[randomIndex];
 
